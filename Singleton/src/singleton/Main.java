@@ -21,7 +21,7 @@ public class Main {
 		SingletonLogger sloger2 = SingletonLogger.getInstance();
 		SingletonLogger sloger3 = SingletonLogger.getInstance();
 		
-		System.out.println("----------------------");
+		System.out.println("------------------------");
 		
 		sloger1.deposit("Bheem", 100);
 		sloger2.withdraw("Bheem", 500);
